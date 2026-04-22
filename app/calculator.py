@@ -1,4 +1,4 @@
-#CLASE AUTOMÁTIZACIONES test v1.1
+#CLASE AUTOMATIZACIONES test v1.2
 
 def add(a, b):
     return a + b
